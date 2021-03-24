@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleenalee, you can call me Aleena or Yuri!
 - 👀 I’m interested in learning to program and use Git :)
 - 🌱 I’m currently learning cs50 and Odin Project
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... not sure yet :(
 - 📫 yonishwk@gmail.com
 
 <!---

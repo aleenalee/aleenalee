@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to program and use Git :)
 - 🌱 I’m currently learning cs50 and Odin Project
 - 💞️ I’m looking to collaborate on ... not sure yet :(
-- 📫 feel free to email me anytime! yonishwk@gmail.com
+- 📫 yonishwk@gmail.com
 
 <!---
 aleenalee/aleenalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

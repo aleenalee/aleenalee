@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleenalee!
+- 👋 Hi, I’m Yuri!
 - 👀 I’m interested in learning to program and use Git :)
 - 🌱 I’m currently learning...JavaScript
 - 💞️ I’m looking to collaborate on ... 
